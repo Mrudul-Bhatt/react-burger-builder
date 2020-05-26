@@ -1,3 +1,9 @@
 {
-      "editor.fontSize": 20
+      "editor.fontSize": 20,
+      "editor.tabSize": 6,
+      "prettier.tabWidth": 4,
+      "javascript.preferences.quoteStyle": "single",
+      "typescript.preferences.quoteStyle": "single",
+      "prettier.jsxSingleQuote": true,
+      "prettier.singleQuote": true
 }
